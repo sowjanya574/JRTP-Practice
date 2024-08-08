@@ -1,2 +1,4 @@
 class Test{
+
+  int i=10;
 }
